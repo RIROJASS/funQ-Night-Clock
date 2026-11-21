@@ -233,6 +233,10 @@ A Miami weekend tourist group on a late ticket, hour by hour, showing which feat
 
 Philadelphia and New Orleans venue data: **Yelp Open Dataset** (yelp.com/dataset), used under Yelp's dataset terms for educational, non-commercial use. No Yelp data is redistributed here; the scripts rebuild everything from your own download.
 
+## License
+
+The code is released under the [MIT License](LICENSE). The MIT License covers this repository's code only. The Yelp Open Dataset stays under Yelp's own terms.
+
 ---
 
 ## Open design decisions
